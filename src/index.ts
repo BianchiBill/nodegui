@@ -16,6 +16,7 @@ label.setText("Hello");
 const button = new QPushButton();
 button.setIcon(new QIcon(logo));
 
+
 const label2 = new QLabel();
 label2.setText("World");
 label2.setInlineStyle(`
